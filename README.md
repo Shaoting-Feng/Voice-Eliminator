@@ -18,7 +18,7 @@ Voice-Eliminator is a MATLAB-based project that focuses on frequency domain tran
    git clone https://github.com/Shaoting-Feng/Voice-Eliminator.git
    ```
 2. Open MATLAB and navigate to the project directory.
-3. Run the `Voice_Eliminator.m` script to start the voice elimination process.
+3. Run the `BigHomework.mlx` script to start the voice elimination process.
 
 ## License
 
